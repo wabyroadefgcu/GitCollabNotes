@@ -40,7 +40,7 @@ NOTE: The full details of the diff output is beyond the scope of these notes. Us
 
 `git remote`                      : Show remote location of the repository (usually the repo on GitHub)
 
-`git remote add origin [url]`   : Add new remote location for the repository; Get by going to the repo on Github and choosing "clone"
+`git remote add origin [url]`   : Add new remote location for the repository; Get URL by going to the repo on Github and choosing "clone"
 
 `git push origin [master/branch]`  : Push the branch to the corresponding branch on the remote repository
 
